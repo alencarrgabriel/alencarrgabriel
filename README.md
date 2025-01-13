@@ -81,7 +81,7 @@ Estou em busca de uma oportunidade para contribuir com meu conhecimento, aprende
 ## Estou aberto a novas oportunidades!
 Se você está procurando um profissional dedicado, focado e sempre disposto a aprender, entre em contato comigo!
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/alencarrgabriel/alencarrgabriel/output/github-contribution-grid-snake.svg)
+
 
 
 
