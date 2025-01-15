@@ -71,7 +71,7 @@ Estou em busca de uma oportunidade para contribuir com meu conhecimento, aprende
 ## Projetos
 - **Aplicação de Inspeção Veicular**: Um sistema desenvolvido utilizando **Blazor** e **.NET MAUI** para realizar inspeções em caminhões, registrando informações como calibragem de pneus, hodômetro, e condição geral do veículo.
 - **Site de Vendas**: Aplicação web com operações CRUD, incluindo cadastro de produtos, clientes, pedidos e controle de estoque. Utiliza ASP.NET Core, Blazor Web Assembly e SQL Server .
-- **Dashboard de Vendas** - DashboardVendas: Projeto utilizando Python e as bibliotecas Pandas, Plotly Express e Streamlit para análise de dados de vendas de um supermercado. O objetivo foi criar um dashboard interativo que permite visualizar o faturamento por dia, tipo de produto, cidade, forma de pagamento e avaliação das filiais. O projeto faz parte dos meus estudos em análise de dados com Python
+- **[Dashboard de Vendas](https://github.com/alencarrgabriel/DashboardVendas)**: Projeto utilizando Python e as bibliotecas Pandas, Plotly Express e Streamlit para análise de dados de vendas de um supermercado. O objetivo foi criar um dashboard interativo que permite visualizar o faturamento por dia, tipo de produto, cidade, forma de pagamento e avaliação das filiais. O projeto faz parte dos meus estudos em análise de dados com Python.
 
 
 <div> 
