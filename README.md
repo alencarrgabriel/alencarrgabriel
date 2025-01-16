@@ -1,6 +1,4 @@
-<h1>Gabriel Alencar</h1>
-
-###
+# Gabriel Alencar
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="c# logo" />
@@ -21,7 +19,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
 </div>
-
 
 ##
 
@@ -69,10 +66,10 @@ Estou em busca de uma oportunidade para contribuir com meu conhecimento, aprende
 - Contribuir para projetos open-source e aprender com a comunidade de desenvolvedores.
 
 ## Projetos
+- **[Portfólio Pessoal](https://alencarrgabriel.github.io/)**: Um site desenvolvido com **HTML**, **CSS**, **JavaScript** e **Bootstrap** para apresentar meus projetos, habilidades e trajetória profissional. Este projeto também serviu como exercício de aprendizado em front-end e design responsivo.
 - **Aplicação de Inspeção Veicular**: Um sistema desenvolvido utilizando **Blazor** e **.NET MAUI** para realizar inspeções em caminhões, registrando informações como calibragem de pneus, hodômetro, e condição geral do veículo.
-- **Site de Vendas**: Aplicação web com operações CRUD, incluindo cadastro de produtos, clientes, pedidos e controle de estoque. Utiliza ASP.NET Core, Blazor Web Assembly e SQL Server .
+- **Site de Vendas**: Aplicação web com operações CRUD, incluindo cadastro de produtos, clientes, pedidos e controle de estoque. Utiliza ASP.NET Core, Blazor Web Assembly e SQL Server.
 - **[Dashboard de Vendas](https://github.com/alencarrgabriel/DashboardVendas)**: Projeto utilizando Python e as bibliotecas Pandas, Plotly Express e Streamlit para análise de dados de vendas de um supermercado. O objetivo foi criar um dashboard interativo que permite visualizar o faturamento por dia, tipo de produto, cidade, forma de pagamento e avaliação das filiais. O projeto faz parte dos meus estudos em análise de dados com Python.
-
 
 <div> 
   <a href = "mailto:gabrielalencardearaujo04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -81,8 +78,3 @@ Estou em busca de uma oportunidade para contribuir com meu conhecimento, aprende
 
 ## Estou aberto a novas oportunidades!
 Se você está procurando um profissional dedicado, focado e sempre disposto a aprender, entre em contato comigo!
-
-
-
-
-
