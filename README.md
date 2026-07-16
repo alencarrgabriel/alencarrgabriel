@@ -172,12 +172,13 @@ Sites desenvolvidos e entregues para empresas, em uso ativo:
 
 ---
 
-## GitHub Stats
+## 🚀 Atualmente construindo
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alencarrgabriel&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alencarrgabriel&layout=compact&theme=dark&hide_border=true"/>
-</p>
+| Projeto | Status | Stack |
+|---------|--------|-------|
+| **Lunna** | Beta → lançamento | NestJS · Next.js 15 · PostgreSQL |
+| **MargemReal** | Em produção | FastAPI · Next.js · PostgreSQL |
+| **FiveOne Platform** | Em desenvolvimento | NestJS · Next.js 15 · Turborepo |
 
 ---
 
